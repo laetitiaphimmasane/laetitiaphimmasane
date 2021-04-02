@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning et working on : 
  a school project : Find Your Trip, an application mobile with React Native and NodeJS.
  a personnal project : a bot, named Cat Memes Bot, which will provide social content on Twitter.
-- You can find me on Linkedin : Laëtitia Phimmasane.
+
 
 
 <!---
