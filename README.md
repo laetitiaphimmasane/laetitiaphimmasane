@@ -1,4 +1,4 @@
-- 👋 Hi, I’m a french begginner in computer science. 
+- 👋 Hi, I’m a french beginner in computer science. 
 - 🌱 I’m currently learning et working on : 
  a school project : Find Your Trip, an application mobile with React Native and NodeJS.
  a personnal project : a bot, named Cat Memes Bot, which will provide social content on Twitter.
